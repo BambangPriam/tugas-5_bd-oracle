@@ -35,7 +35,8 @@
 
 •	Home.php
 
- ![image](https://user-images.githubusercontent.com/45525619/149087613-64c5785a-af4c-48f0-bb22-40baa6499605.png)
+![image](https://user-images.githubusercontent.com/45525619/149087571-fa47d898-9237-470f-ab85-9872ef79a347.png)
+
  
 • Hasil view di tampilan home
 
@@ -47,7 +48,10 @@
 
 •	Tampil.php 
 
-![image](https://user-images.githubusercontent.com/45525619/149087571-fa47d898-9237-470f-ab85-9872ef79a347.png)
+ ![image](https://user-images.githubusercontent.com/45525619/149087613-64c5785a-af4c-48f0-bb22-40baa6499605.png)
+ 
+ ![grabilla Uh8604](https://user-images.githubusercontent.com/45525619/149090247-c8916617-8462-4d4d-9717-244478c5b5b9.png)
+
 
 
 •	Hasil tampilan
