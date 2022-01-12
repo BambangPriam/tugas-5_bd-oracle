@@ -8,11 +8,13 @@
 2.	Buat view dalam database masing2
 
 •	View untuk menampilkan hanya mahasiswa laki-laki
+
 ![image](https://user-images.githubusercontent.com/45525619/149087476-dd086802-4fcb-4e1c-a6cc-07d5ebb2489a.png)
 
  
  
 •	View untuk menampilkan hanya mahasiswa perempuan
+
 ![image](https://user-images.githubusercontent.com/45525619/149087449-79dc38c2-0a2e-453a-8f16-2faf05e38dab.png)
 
  
