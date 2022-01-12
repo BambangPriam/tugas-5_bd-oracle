@@ -21,14 +21,16 @@
  
 3.	Buat halaman home/bernda.
 
- ![image](https://user-images.githubusercontent.com/45525619/149087551-5a55c1de-24f3-4f88-b11b-f03cc4818492.png)
+  ![image](https://user-images.githubusercontent.com/45525619/149087513-073429ef-6386-46a8-8dec-665c41d1dbd5.png)
 
 
 4.	gunakan query count unutk menampilkan jumlah data dari view. 
 
 •	Query oracle
 
- ![image](https://user-images.githubusercontent.com/45525619/149087513-073429ef-6386-46a8-8dec-665c41d1dbd5.png)
+![image](https://user-images.githubusercontent.com/45525619/149087551-5a55c1de-24f3-4f88-b11b-f03cc4818492.png)
+
+
 
 
 •	Home.php
