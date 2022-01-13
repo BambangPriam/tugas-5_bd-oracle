@@ -36,12 +36,19 @@
 
 •	Home.php
 
-![image](https://user-images.githubusercontent.com/45525619/149087571-fa47d898-9237-470f-ab85-9872ef79a347.png)
+![grabilla Uh6984](https://user-images.githubusercontent.com/45525619/149283861-df3f64e3-3f81-4729-adac-49e569a332ac.png)
+
+
+
+![grabilla Uh8612](https://user-images.githubusercontent.com/45525619/149283910-c77ba2dc-c1e7-4291-ad9c-87c83d813fa8.png)
+
+
 
  
 • Hasil view di tampilan home
 
-![image](https://user-images.githubusercontent.com/45525619/149088231-67bed6b9-a2dd-4958-b88f-05ae4660294f.png)
+![grabilla q12884](https://user-images.githubusercontent.com/45525619/149284009-7913a3a3-8e0e-42df-b5ce-e06c4ca77ab6.png)
+
 
 
 
