@@ -21,7 +21,8 @@
  
 3.	Buat halaman home/bernda.
 
-  ![image](https://user-images.githubusercontent.com/45525619/149087513-073429ef-6386-46a8-8dec-665c41d1dbd5.png)
+![grabilla em4148](https://user-images.githubusercontent.com/45525619/149283453-90af1f56-fa7a-4614-b9a5-d92fd8456986.png)
+
 
 
 4.	gunakan query count unutk menampilkan jumlah data dari view. 
